@@ -1,0 +1,8 @@
+{
+  "name": "India Dowry Complaint Portal (IDCP)",
+  "description": "A centralized, advanced national platform for reporting dowry harassment and domestic violence safely and securely.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
